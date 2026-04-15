@@ -9,6 +9,7 @@
 
 `🙋‍♀️ Help and Disscussion forums`
 * [Help](https://github.com/wikipathways/wikipathways-help/discussions) - Public help forum
+* [Academy](https://github.com/wikipathways/academy) - Learn how to model our pathways and edit existing ones
 * [FAQ](https://github.com/wikipathways/wikipathways-faq/discussions) - Frequently Asked Questions
 * [Pathway Curation Tasks](https://github.com/wikipathways/pathway-curation-tasks) - Prioritized pathway curation tasks; for beginners, advanced and domain-specific authors
 * [Dev chat](https://github.com/wikipathways/wikipathways-development/discussions) - Developer discussions
